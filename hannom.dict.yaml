@@ -76,6 +76,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𰪯	nhámⓥ 紙𰪯 giấy nhám, 𰪯𰪯 nham nhám, 𰪯謲 nhám xàm	423500
 𱪳	troⓥ 𱪳炭 tro than, 𱪳𤇮 tro bếp	252500
 𱺵	làⓥ 即𱺵 tức là, 妬𱺵 đó là	500
+𪜀	làⓥ 即𪜀 tức là, 妬𪜀 đó là	500
 𰺽	loangⓥ 𰺽𫥨 loang ra, 𤵖油𰺽 vết dầu loang, 𡲫染被𰺽 vải nhuộm bị loang	319900
 𰛴	rạoⓥ 𰛴熤 rạo rực, 洮𰛴 rệu rạo	423500
 𰜀	khừngⓥ 淩𰜀 lừng khừng	4
@@ -685,7 +686,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𤜯	cọpⓥ 𤜯𧴋 cọp beo	226300
 舛	suyễnⓥ 差舛 sai suyễn	4
 各	cácⓗ 各伴 các bạn, 各位 các vị	800
-名	danhⓗ 功名 công danh, 名㗂 danh tiếng, 名人 danh nhân	52400
+名	danhⓗ 功名 công danh, 名聲 danh tiếng, 名人 danh nhân	52400
 多	đaⓗ 多數 đa số, 最多 tối đa, 多情 đa tình	48700
 多	đàⓥ 多樂 Đà Lạt	71500
 﨤	gặpⓥ 﨤攑 gặp gỡ, 﨤𣋑 gặp dịp, 常﨤 thường gặp	38600
@@ -933,7 +934,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 吵	thỉuⓥ 𣵲吵 bẩn thỉu	343200
 串	xuyếnⓗ 貫串 quán xuyến	358200
 吶	nhuếⓥ 吶哸 nhuế nhóa	4
-吶	nóiⓥ 𦖑吶 nghe nói, 㗂吶 tiếng nói, 吶哴 nói rằng	4600
+吶	nóiⓥ 𦖑吶 nghe nói, 聲吶 tiếng nói, 吶哴 nói rằng	4600
 吘	ngỏⓥ 吘意 ngỏ ý, 書吘 thư ngỏ, 𠬃吘 bỏ ngỏ	223900
 𠰃	nhấmⓥ 齽𠰃 gặm nhấm	295200
 𠰃	nhồmⓥ 𠰃啱 nhồm nhàm	423500
@@ -967,7 +968,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𠯖	hoⓥ 𠯖𠻃 ho hen, 𠯖癆 ho lao, 咍𠯖 hay ho	282400
 㕴	nhủngⓥ 㕴𦅯 nhủng nhẳng	4
 㕴	nũngⓥ 𫜵㕴 làm nũng, 㕴溺 nũng nịu, 𡥵㕴媄 con nũng mẹ	423500
-吣	tămⓥ 㗂吣 tiếng tăm, 別吣 biệt tăm	221000
+吣	tămⓥ 聲吣 tiếng tăm, 別吣 biệt tăm	221000
 吳	ngôⓗ 𣘃吳 cây ngô, 𤊡吳 bỏng ngô, 𢩜吳 họ Ngô	153900
 呎	sécⓥ 𬌓呎 tấm séc, 共和呎 Cộng hoà Séc	375000
 呎	sếchⓥ  	4
@@ -1315,7 +1316,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 茂	mậuⓗ 茂才 mậu tài	145600
 苝	bấcⓥ 𣘃苝 cây bấc, 𥾘苝 sợi bấc, 𫡸如苝 nhẹ như bấc	423500
 苴	thơⓥ 𱚪苴 trẻ thơ, 𡥵苴 con thơ , 芹苴 Cần Thơ	103200
-英	anhⓗ 英雄 anh hùng, 㗂英 tiếng Anh	6800
+英	anhⓗ 英雄 anh hùng, 聲英 tiếng Anh	6800
 偀	anhⓥ 偀俺 anh em, 偀𤳆 anh trai	6800
 𦬺	muốngⓥ 蔞𦬺 rau muống	4
 茌	sèⓥ 茌茌 sè sè, 𨐮茌 cay sè, 𭰪茌 sập sè	460700
@@ -1533,7 +1534,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 版	bảnⓗ 出版 xuất bản, 版草 bản thảo, 再版 tái bản	18700
 侊	xoàngⓥ 侊省 xoàng xĩnh, 𩛷𩚵侊 bữa cơm xoàng	395800
 㑋	ngúcⓥ 㑋𥔲 ngúc ngắc	4
-侃	khảnⓥ 侃㗂 khản tiếng, 侃𭉪 khản đặc, 𠰩侃 giọng khản	395800
+侃	khảnⓥ 侃聲 khản tiếng, 侃𭉪 khản đặc, 𠰩侃 giọng khản	395800
 凭	vữngⓥ 凭𢡠 vững chắc, 凭胣 vững dạ, 𥾽凭 bền vững	116400
 侐	suýtⓥ 侐𡛤 suýt nữa, 侐侈𫥨災難 suýt xảy ra tai nạn	295200
 佮	gộpⓥ 賚佮 lãi gộp, 佮徠 gộp lại	331300
@@ -1670,7 +1671,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 炎	viêmⓗ 炎肺 viêm phổi, 炎𦙥 viêm họng	147000
 𤆺	hóngⓥ 蒲𤆺 bồ hóng	423500
 沫	mượtⓥ 沫𣻕 mượt mà, 滃沫 óng mượt, 𣮹沫 tóc mượt	282400
-法	phápⓗ 憲法 hiến pháp, 法律 pháp luật, 㗂法 tiếng pháp	14900
+法	phápⓗ 憲法 hiến pháp, 法律 pháp luật, 聲法 tiếng pháp	14900
 法	phépⓥ 朱法 cho phép, 儗法 nghỉ phép, 禮法 lễ phép	60200
 泔	ngòmⓥ 黰泔 đen ngòm, 泔泔 ngòm ngòm	423500
 泄	tiếtⓗ 泄毒 tiết độc, 浽泄 nổi tiết, 泄瀉 tiết tả	65800
@@ -2095,7 +2096,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𥫭	nứaⓥ 𣘃𥫭 cây nứa	395800
 𠜮	húiⓥ 𠜮𣮹 húi tóc	423500
 段	đoạnⓗ 段塘 đoạn đường, 分段 phân đoạn, 手段 thủ đoạn	80900
-㑝	lóngⓥ 㗂㑝 tiếng lóng	282400
+㑝	lóngⓥ 聲㑝 tiếng lóng	282400
 㑘	giáyⓥ 𠊛㑘 người Giáy	4
 㑜	chịtⓥ 𦁢㑜 chằng chịt	358200
 㑜	dịtⓥ ⇔ 㑜 chịt | 𦁢㑜 dằng dịt	460700
@@ -2607,7 +2608,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𠊛	ngườiⓥ 𠊛咱 người ta, 𠊛西 người tây	1200
 時	thìⓥ 時𫥨 thì ra, 勢時 thế thì, 丕時 vậy thì；ⓗ 時𣇞 thì giờ	4900
 時	thờiⓗ 時節 thời tiết, 時機 thời cơ, 時運 thời vận	13100
-哢	lồngⓥ 哢㗂 lồng tiếng, 哢𪵅 lồng lộn	233700
+哢	lồngⓥ 哢聲 lồng tiếng, 哢𪵅 lồng lộn	233700
 䀡	xemⓥ 䀡𧡊 xem thấy, 䀡察 xem xét, 䀡𧴤 xem bói	32000
 逞	sínhⓗ 逞外 sính ngoại, 逞矯法 sính kiểu Pháp	375000
 畢	tấtⓗ 完畢 hoàn tất, 畢力 tất lực	28700
@@ -2998,7 +2999,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 浴	dụcⓗ 沐浴 mộc dục	62300
 浖	thụtⓥ 浖𨀤 thụt lùi	276900
 浮	phùⓗ 浮沙 phù sa, 生物浮游 sinh vật phù du, 𠊛被浮 người bị phù	113300
-浽	nổiⓥ 㵢浽 trôi nổi, 浽恨 nổi giận, 浽㗂 nổi tiếng	45600
+浽	nổiⓥ 㵢浽 trôi nổi, 浽恨 nổi giận, 浽聲 nổi tiếng	45600
 𣵰	lặnⓥ 𣵰洡 lặn lội	209000
 㳯	tănⓥ 蹸㳯 lăn tăn	4
 流	lưuⓗ 交流 giao lưu, 流行 lưu hành, 潮流 trào lưu	73700
@@ -3089,7 +3090,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 娘	nươngⓗ 姑娘 cô nương, 娘娘 nương nương	185000
 娘	nườngⓥ 𧀒娘 nõn nường	4
 娓	vãiⓥ 𠇈娓 sãi vãi	343200
-砮	nổⓥ 㗂砮 tiếng nổ, 砮縱 nổ tung, 熢砮 bùng nổ	89600
+砮	nổⓥ 聲砮 tiếng nổ, 砮縱 nổ tung, 熢砮 bùng nổ	89600
 脅	hiếpⓗ 威脅 uy hiếp, 脅淫 hiếp dâm, 咹脅 ăn hiếp	223900
 通	thôngⓗ 通報 thông báo, 通曉 thông hiểu	16400
 通	thốngⓥ ⇔ 通 thông | 通通 thông thống	23600
@@ -3251,7 +3252,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𠝻	châmⓥ 𠝻擉 châm chọc, 𠝻針 châm kim	226300
 勘	khámⓗ 勘度 khám đạc, 勘察 khám xét, 勘病 khám bệnh	111400
 𦕟	văngⓥ ⇔ 𦕟 vẳng | 𦕟𦕟 văng vẳng	206700
-𦕟	vẳngⓥ 𦕟𦕟 văng vẳng, 𦕟𦖑 vẳng nghe, 𦕟㗂 vẳng tiếng	319900
+𦕟	vẳngⓥ 𦕟𦕟 văng vẳng, 𦕟𦖑 vẳng nghe, 𦕟聲 vẳng tiếng	319900
 娶	thúⓗ 婚娶 hôn thú, 嫁娶 giá thú	74100
 著	nướcⓥ 著棋 nước cờ	3700
 著	trứⓗ 著述 trứ thuật, 著名 trứ danh	460700
@@ -3533,7 +3534,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 唰	loạtⓥ 唰咄 loạt xoạt	111400
 啒	quặcⓥ 奇啒 kì quặc	358200
 𠶄	gạⓥ 𠶄𡀯 gạ chuyện	358200
-𠵎	gùⓥ 㗂𪀄𠵎 tiếng chim gù, 𩠓𠵎 gật gù	319900
+𠵎	gùⓥ 聲𪀄𠵎 tiếng chim gù, 𩠓𠵎 gật gù	319900
 啜	xuýtⓥ 啜捘 xuýt xoa, 啜𡛤 xuýt nữa, 啜脫 xuýt xoát	375000
 帳	trướngⓗ 幅帳 bức trướng, 幔帳 màn trướng	230700
 𡹃	rừngⓥ 𡹃葚 rừng rậm, 𡹃疎 rừng thưa	62800
@@ -4259,7 +4260,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 蛟	giaoⓗ 蛟龍 giao long	34200
 𧊐	trútⓥ 𩷳𧊐 vảy trút	276900
 㗂	tiêngⓥ 𠊛綀㗂 người Xơ-Tiêng (X'Tiêng)	4
-㗂	tiếngⓥ 㗂吶 tiếng nói, 㗂叫 tiếng kêu, 㗂越 tiếng Việt	16800
+聲	tiếngⓥ 聲吶 tiếng nói, 聲叫 tiếng kêu, 聲越 tiếng Việt	16800
 𠷌	tặcⓥ 𠷌𦧜 tặc lưỡi	303500
 喁	ngụmⓥ 𠬠喁渃 một ngụm nước	375000
 嗢	ồnⓥ 嗢泑 ồn ào, 嗢啊 ồn ã	226300
@@ -4323,7 +4324,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𠹯	bẹⓥ 潗𠹯 bập bẹ	395800
 㗎	giụaⓥ 𣼼㗎 giàn giụa, 䟢㗎 giãy giụa	395800
 𠸣	hổngⓥ 𡓇𠸣 lỗ hổng	276900
-𠺻	cộpⓥ 𡂏𠺻 lộp cộp, 𦖑𠬠㗂𠺻 nghe một tiếng cộp	358200
+𠺻	cộpⓥ 𡂏𠺻 lộp cộp, 𦖑𠬠聲𠺻 nghe một tiếng cộp	358200
 𢃱	mũⓥ 戴𢃱 đội mũ	143500
 幅	bứcⓗ 幅幀 bức tranh, 幅墻 bức tường	64400
 凱	khảiⓗ 凱歌 khải ca, 凱還 khải hoàn	149400
@@ -4692,7 +4693,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 媒	maiⓥ 婆媒 bà mai, 媒䋦 mai mối	56700
 媒	môiⓗ 媒場 môi trường, 媒介 môi giới, 婆媒 bà môi	95500
 媤	tơⓥ 𤳆媤 trai tơ, 𡛔媤 gái tơ, 媤想 tơ tưởng	257200
-媄	mẹⓥ 媄𡥵 mẹ con, 仛媄 cha mẹ, 㗂媄𤯰 tiếng mẹ đẻ	13300
+媄	mẹⓥ 媄𡥵 mẹ con, 仛媄 cha mẹ, 聲媄𤯰 tiếng mẹ đẻ	13300
 𡠣	cướiⓥ 𡌽𡠣 đám cưới	150300
 媚	mìⓥ 柔媚 nhu mì	214600
 媚	mịⓥ 𬌓𡲫媚𩈘 tấm vải mị mặt ⓗ 媚民 mị dân, 媚娘 mị nương	189000
@@ -5095,7 +5096,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 嵩	tungⓗ 嵩呼 tung hô	86800
 圓	viênⓗ 圓彈 viên đạn, 圓寂 viên tịch	9900
 𡬼	gangⓥ 荼𡬼 dưa gang	266500
-𤯰	đẻⓥ 㗂媄𤯰 tiếng mẹ đẻ	151500
+𤯰	đẻⓥ 聲媄𤯰 tiếng mẹ đẻ	151500
 榘	củⓥ 榘𧃷 củ khoai	140700
 矮	oảiⓗ 矮香 oải hương	395800
 雉	trĩⓗ 𪀄雉 chim trĩ	423500
@@ -5112,7 +5113,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 筫	búiⓥ 筫𦹯 búi cỏ, 筫𣮹徠 búi tóc lại	395800
 䇼	oépⓥ 張䇼 trang oép	4
 𥮋	thẻⓥ 𥮋生員 thẻ sinh viên	144600
-䇶	giốcⓥ 㗂䇶 tiếng giốc	375000
+䇶	giốcⓥ 聲䇶 tiếng giốc	375000
 節	tếtⓥ 節元旦 tết nguyên đán	179900
 節	tiếtⓗ 時節 thời tiết, 枝節 chi tiết, 音節 âm tiết	65800
 䇻	vỉⓥ 䇻𧋆 vỉ ruồi	423500
@@ -5270,7 +5271,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 新	tânⓗ 新春 tân xuân, 新兵 tân binh, 革新 cách tân	70100
 𩐛	ấmⓥ 𩐛咖啡 ấm cà phê, 𩐛渃 ấm nước, 𩐛積 ấm tích	105500
 歆	hâmⓗ 歆慕 hâm mộ	218000
-意	ýⓗ 意㦖 ý muốn, 意想 ý tưởng, 㗂意 tiếng Ý	16000
+意	ýⓗ 意㦖 ý muốn, 意想 ý tưởng, 聲意 tiếng Ý	16000
 剷	xẻngⓥ 丐剷 cái xẻng, 钁剷 cuốc xẻng	311400
 雍	ungⓗ 雍容 ung dung	173700
 𠦻	lưngⓥ 𠦻鉢𩚵 lưng bát cơm, 𠦻襊𩙍𦝄 lưng túi gió trăng	107800
@@ -5284,7 +5285,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𥺑	tấmⓥ 𥺑𥽇 tấm cám, 壈𥺑 lấm tấm, 捏如𥺑 nát như tấm	77600
 煎	chiênⓥ 𩚵煎 cơm chiên, 𥸷煎 xôi chiên, 煎𤇤 chiên xào	288100
 慈	từⓗ 仁慈 nhân từ, 慈善 từ thiện	3600
-𤋸	khétⓥ 𤋸哷 khét lẹt, 𤋸㗂 khét tiếng	295200
+𤋸	khétⓥ 𤋸哷 khét lẹt, 𤋸聲 khét tiếng	295200
 煏	bứcⓥ 𤎏煏 nóng bức	64400
 煙	ínⓥ 黑煙 hắc ín	4
 煩	phiềnⓗ 𫜵煩 làm phiền, 煩悶 phiền muộn, 煩複 phiền phức	165500
@@ -7295,7 +7296,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𡁾	thọtⓥ 時𡁾 thì thọt	460700
 𡁞	xàoⓥ 嘮𡁞 lào xào	311400
 𡂓	tháchⓥ 吶𡂓 nói thách, 𡂓𥅞 thách thức	142500
-㘇	vangⓥ 㘇淩 vang lừng, 㗂㘇 tiếng vang, 音㘇 âm vang	121700
+㘇	vangⓥ 㘇淩 vang lừng, 聲㘇 tiếng vang, 音㘇 âm vang	121700
 𡁼	sèoⓥ 㕭𡁼 eo sèo	4
 𡂷	khoănⓥ 𠺚𡂷 băn khoăn	272500
 𡁟	thắnⓥ 𣦎𡁟 thẳng thắn	257200
@@ -7667,7 +7668,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𪁭	bồⓥ 𪁭鳩 bồ câu, 𪁭𪇌 bồ nông	100600
 歸	quyⓗ 歸屬 quy thuộc, 于歸 vu quy, 終歸 chung quy	40000
 𦪑	bátⓥ 𢭄𦪑 cạy bát	185000
-𨫋	cồngⓥ 丐𨫋 cái cồng, 㗂𨫋 tiếng cồng, 𨫋倞 cồng kềnh	343200
+𨫋	cồngⓥ 丐𨫋 cái cồng, 聲𨫋 tiếng cồng, 𨫋倞 cồng kềnh	343200
 鏵	hoaⓥ 𠬠鏵 một hoa	8500
 鎮	trấnⓗ 市鎮 thị trấn, 鎮靜 trấn tĩnh, 鎮壓 trấn áp	147000
 𨪝	kềnⓥ 𨬈𨪝 mạ kền, 尼𨪝 ni-ken(kền)	4
@@ -7951,7 +7952,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𩘣	tốⓥ 𩘪𩘣 dông tố	64700
 𩘪	dôngⓥ 𩘪𩘣 dông tố, 𩘪𪥘󠄁𢆥 dông cả năm	375000
 𩘪	giôngⓥ ⇔ 𩘪 dông | 𩘪𩙍 giông gió	343200
-𧥇	còiⓥ 㗂𧥇 tiếng còi, 𠺙𧥇 thổi còi	221000
+𧥇	còiⓥ 聲𧥇 tiếng còi, 𠺙𧥇 thổi còi	221000
 蟹	giảiⓗ 笘𣇟巨蟹 chòm sao Cự Giải	17500
 譌	vèⓥ 喝譌 hát vè, 韻譌 vần vè, 歌譌 ca vè	343200
 識	thứcⓗ 學識 học thức, 認識 nhận thức, 識別 thức biệt	25300
@@ -8686,7 +8687,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𫮒	pháⓥ 潭𫮒 đầm phá	57700
 𫮦	beⓥ 𫮦坡 be bờ	151500
 𫯳	chồngⓥ 𱙡𫯳 vợ chồng	55100
-𫰅	toⓥ 𫰅𡘯 to lớn, 𫰅㗂 to tiếng	42300
+𫰅	toⓥ 𫰅𡘯 to lớn, 𫰅聲 to tiếng	42300
 𫰟	hằngⓗ 𫰟娥 Hằng Nga	130300
 𫱗	nạⓥ 𫱗𣳔 nạ dòng	375000
 𫲃󠄁	bầmⓥ 𫲃󠄁𫥨𬏇𥝽𫲃󠄁憞 bầm ra ruộng cấy bầm run	303500
@@ -8859,7 +8860,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𮞊	nhanhⓥ 𮞊遃 nhanh nhẹn, 精𮞊 tinh nhanh, 𧼋𮞊 chạy nhanh	60000
 𮞑	ghếchⓥ 𮞑蹎 ghếch chân	4
 𮞶	lậtⓥ 𮞶𢭰 lật đổ , 𮞶弼 lật bật, 𮞶達 lật đật	173700
-𮞿	rặtⓥ 𢄂𮞿仍柑 chợ rặt những cam, 吶𮞿㗂沔中 nói rặt tiếng miền Trung	460700
+𮞿	rặtⓥ 𢄂𮞿仍柑 chợ rặt những cam, 吶𮞿聲沔中 nói rặt tiếng miền Trung	460700
 𮥛	nấcⓥ 𮥛簜 nấc thang, 㨢𬨠𠬠𮥛 nâng lên một nấc	257200
 𮬄	vẩyⓥ 𮬄𩵜 vẩy cá	358200
 𮬩	đểuⓥ 𮬩𫆥 đểu cáng, 𮬩者 đểu giả, 㹥𮬩 chó đểu	375000
@@ -9134,6 +9135,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𢖮𠳾	ắt hẳn	4
 乙亥	ất hợi	4
 𢖮𱺵	ắt là	4
+𢖮𪜀	ắt là	4
 乙卯	ất mão	4
 乙未	ất mùi	4
 𢖮沛	ắt phải	4
@@ -9152,6 +9154,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 甌鐄	âu vàng	4
 憂掩	âu yếm	4
 𧘇𱺵	ấy là	8355
+𧘇𪜀	ấy là	8355
 曖𢖱	áy náy	4
 𠀧被	ba bị	4
 𠀧𦊚	ba bốn	620
@@ -9166,6 +9169,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 婆羅門	bà la môn	1185
 波蘭	ba lan	4
 𠀧吝𠀧𱺵𠃩	ba lần ba là chín	4
+𠀧吝𠀧𪜀𠃩	ba lần ba là chín	4
 婆老	bà lão	4
 波黎	ba lê	4
 伯靈	bá linh	4
@@ -10553,7 +10557,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 拮𢩮	cất nhấc	4
 拮𢩮	cất nhắc	4
 拮𢵽	cất rớ	4
-拮㗂	cất tiếng	1225
+拮聲	cất tiếng	1225
 𦛋𥯌	cật tre	4
 詰問	cật vấn	4
 割釧	cắt xén	593
@@ -10768,6 +10772,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 拯限	chẳng hạn	13104
 拯𢭁	chẳng hề	4
 拯𱺵	chẳng là	718
+拯𪜀	chẳng là	718
 拯𨤰	chẳng lẽ	2264
 拯𠇍𡎺	chẳng mấy chốc	513
 拯仍	chẳng những	3279
@@ -11588,7 +11593,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 固守	cố thủ	4
 固跡哴	có tích rằng	4
 固錢	có tiền	4
-固㗂	có tiếng	3670
+固聲	có tiếng	3670
 固情	có tình	551
 故情	cố tình	3674
 旗祖國	cờ tổ quốc	4
@@ -12417,7 +12422,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 打𢯂	đánh thó	4
 𧶄時間	dành thời gian	4
 打𥅞	đánh thức	1546
-名㗂	danh tiếng	4
+名聲	danh tiếng	4
 打𥋽	đánh tráo	4
 打𤿰	đánh trống	4
 打𤿰𨅉	đánh trống lảng	4
@@ -13014,6 +13019,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 妒忌	đố kị	4
 𪭴邏	dò la	4
 妬𱺵	đó là	4
+妬𪜀	đó là	4
 都羅	đô la	4
 𧹻㘕	đỏ lòm	4
 𢵋量	đo lường	4
@@ -14065,6 +14071,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 澮頭	gội đầu	4
 襘𧁴	gói ghém	4
 噲𱺵	gọi là	4
+噲𪜀	gọi là	4
 噲螺	gọi loa	4
 㨳𢖵	gợi nhớ	4
 襘𠲠	gói thầu	340
@@ -14588,6 +14595,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 或者	hoặc giả	4
 藿香	hoắc hương	4
 或𱺵	hoặc là	4
+或𪜀	hoặc là	4
 霍亂	hoắc loạn	4
 劃定	hoạch định	4
 懷抱	hoài bão	4
@@ -15100,7 +15108,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 懇佉	khấn khứa	4
 巾𢬣	khăn tay	4
 懇切	khẩn thiết	822
-侃㗂	khản tiếng	4
+侃聲	khản tiếng	4
 巾𱱇床	khăn trải giường	4
 緊張	khẩn trương	4
 懇拜	khấn vái	4
@@ -15175,7 +15183,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𢬱㨥	khép nép	4
 𢬱罪	khép tội	4
 𤋸哷	khét lẹt	4
-𤋸㗂	khét tiếng	524
+𤋸聲	khét tiếng	524
 挑畑	khêu đèn	4
 挑㨳	khêu gợi	4
 撬𢪮	khều móc	4
@@ -15984,7 +15992,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𬨠霂	lên mốc	4
 𬨠𡾵	lên ngôi	4
 𬨠𧀓劕檜	lên rú chặt củi	4
-𬨠㗂	lên tiếng	9654
+𬨠聲	lên tiếng	9654
 𬨠𨑗	lên trên	4
 𨇍圇	lẻn tròn	4
 𬨠𬺗	lên xuống	4
@@ -16219,7 +16227,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 侖𫣑	lổn nhổn	4
 𫐮𫥨	lỏn ra	4
 𪵅𣙩	lộn sòng	4
-𡘯㗂	lớn tiếng	1308
+𡘯聲	lớn tiếng	1308
 㖮噂	lon ton	4
 𡘯歲	lớn tuổi	1963
 𫐮𠓨	lỏn vào	4
@@ -16253,7 +16261,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 隆壽	long thọ	4
 龍樹	long thọ	4
 挵𦄷	lòng thòng	4
-哢㗂	lồng tiếng	4
+哢聲	lồng tiếng	4
 𢚸信	lòng tin	4
 儱淙	long tong	4
 𢚸𤥑	lòng vòng	595
@@ -16564,7 +16572,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𧋽𦖻	mang tai	4
 𩓜𮍄	màng tang	4
 笀西	măng tây	4
-𫼳㗂	mang tiếng	1046
+𫼳聲	mang tiếng	1046
 𩓜貞	màng trinh	4
 蟒蛇	mãng xà	4
 𣙷㵊	máng xối	4
@@ -16759,6 +16767,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 緬甸	miến điện	4
 免得銅錢卒	miễn được đồng tiền tốt	4
 免𱺵	miễn là	1328
+免𪜀	miễn là	1328
 免禮	miễn lễ	4
 沔南	miền nam	3043
 沔南越南	miền nam việt nam	404
@@ -17211,6 +17220,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 鐃𣛭𣛭	nạo đu đủ	4
 𱜢咍	nào hay	986
 𱜢𱺵	nào là	5037
+𱜢𪜀	nào là	5037
 鬧亂	náo loạn	385
 惱𢚸	não lòng	4
 𱜢㘈	nào ngờ	4
@@ -17408,7 +17418,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𣈜𠸗	ngày xưa	4
 𦖑兜	nghe đâu	664
 𦖑𦗝	nghe lỏm	4
-𦖑𠬠㗂𠺻	nghe một tiếng cộp	4
+𦖑𠬠聲𠺻	nghe một tiếng cộp	4
 藝業	nghề nghiệp	4
 𦖑𥍎	nghe ngóng	4
 藝嗊	nghề ngỗng	4
@@ -17452,6 +17462,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 義黰	nghĩa đen	813
 義地	nghĩa địa	733
 義𱺵	nghĩa là	31906
+義𪜀	nghĩa là	31906
 義軍	nghĩa quân	999
 義莊	nghĩa trang	4
 義務	nghĩa vụ	4
@@ -18028,6 +18039,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 日報	nhật báo	1587
 日記	nhật kí	4
 一𱺵	nhất là	42017
+一𪜀	nhất là	42017
 抇拎	nhặt nhạnh	4
 溂𠖭	nhạt nhẽo	4
 溂𥉹	nhạt nhoà	4
@@ -18214,6 +18226,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 如𨔈	như chơi	354
 如空	như không	2662
 如𱺵	như là	19351
+如𪜀	như là	19351
 如來	như lai	3723
 葇𬨠	nhú lên	4
 乳母	nhũ mẫu	4
@@ -18381,7 +18394,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 浽𤎏	nổi nóng	366
 吶㕫	nói phăng	4
 內規	nội quy	635
-吶𮞿㗂沔中	nói rặt tiếng miền trung	4
+吶𮞿聲沔中	nói rặt tiếng miền trung	4
 吶𥢆	nói riêng	3502
 吶愴	nói sảng	4
 吶謅	nói sạo	4
@@ -18477,6 +18490,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 姅澄	nửa chừng	380
 姅𣎀	nửa đêm	4
 𡛤𱺵	nữa là	4383
+𡛤𪜀	nữa là	4383
 𠽋唭	nực cười	4
 𠴐渃	núc nác	4
 𰈒䑈	nục nạc	4
@@ -18613,6 +18627,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 煨煏	oi bức	4
 喂嗏	ối chà	4
 㗒𱺵	ơi là	4
+㗒𪜀	ơi là	4
 猥陋	ổi lậu	4
 𣾿嗎	ói mửa	4
 煨𤎏	oi nóng	4
@@ -18715,6 +18730,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 品價	phẩm giá	1112
 品銜	phẩm hàm	4
 凡𱺵	phàm là	4
+凡𪜀	phàm là	4
 犯律	phạm luật	4
 犯人	phạm nhân	743
 𠵽𠵽	phăm phắp	4
@@ -19174,6 +19190,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 過激	quá khích	1159
 過去	quá khứ	4
 果𱺵	quả là	5058
+果𪜀	quả là	5058
 過徠	qua lại	2726
 過夦	quá lắm	4
 果梨	quả lê	4
@@ -20034,6 +20051,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 初起	sơ khởi	563
 數劫	số kiếp	4
 數𱺵	số là	4
+數𪜀	số là	4
 數料	số liệu	3268
 數量	số lượng	4
 疏眉	sơ mi	585
@@ -20344,7 +20362,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𦛍𦛍	tai tái	4
 再造	tái tạo	1221
 再設	tái thiết	745
-災㗂	tai tiếng	967
+災聲	tai tiếng	967
 才情	tài tình	829
 在陣	tại trận	333
 才智	tài trí	4
@@ -20945,6 +20963,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 實惵	thật đẹp	4
 紩縎黹	thắt gút chỉ	4
 實𱺵	thật là	12330
+實𪜀	thật là	12330
 失落	thất lạc	726
 紩𨉞	thắt lưng	836
 失業	thất nghiệp	3109
@@ -20996,6 +21015,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 體現	thể hiện	19605
 世紀	thế kỉ	4
 勢𱺵	thế là	11700
+勢𪜀	thế là	11700
 𪮛嚟	thè lè	4
 體類	thể loại	4
 勢力	thế lực	4
@@ -21714,20 +21734,21 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 前線	tiền tuyến	4
 前衛	tiền vệ	2149
 錢𲂪	tiền vốn	4
-㗂苝㗂鈘	tiếng bấc tiếng chì	4
-㗂𪀄𠵎	tiếng chim gù	4
-㗂𧥇	tiếng còi	4
-㗂𨫋	tiếng cồng	4
-㗂動	tiếng động	1520
-㗂䇶	tiếng giốc	4
-㗂𣾶自壁𡶀	tiếng giội từ vách núi	4
-㗂叫	tiếng kêu	4
-㗂𱺵	tiếng là	669
-㗂媄𤯰	tiếng mẹ đẻ	4
-㗂砮	tiếng nổ	4
-㗂吶	tiếng nói	4
-㗂土	tiếng thổ	4
-㗂㘇	tiếng vang	4
+聲苝聲鈘	tiếng bấc tiếng chì	4
+聲𪀄𠵎	tiếng chim gù	4
+聲𧥇	tiếng còi	4
+聲𨫋	tiếng cồng	4
+聲動	tiếng động	1520
+聲䇶	tiếng giốc	4
+聲𣾶自壁𡶀	tiếng giội từ vách núi	4
+聲叫	tiếng kêu	4
+聲𱺵	tiếng là	669
+聲𪜀	tiếng là	669
+聲媄𤯰	tiếng mẹ đẻ	4
+聲砮	tiếng nổ	4
+聲吶	tiếng nói	4
+聲土	tiếng thổ	4
+聲㘇	tiếng vang	4
 捷報	tiệp báo	4
 接近	tiếp cận	4
 接𡀯	tiếp chuyện	397
@@ -22742,6 +22763,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𠺒恨	tức giận	4
 即刻	tức khắc	4
 即𱺵	tức là	4
+即𪜀	tức là	4
 俗例	tục lệ	848
 俗語	tục ngữ	4
 即時	tức thì	4
@@ -22877,6 +22899,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 選用	tuyển dụng	2086
 宣揚	tuyên dương	4
 全𱺵𠊛𫅷	tuyền là người già	4
+全𪜀𠊛𫅷	tuyền là người già	4
 宣判	tuyên phán	4
 宣光	tuyên quang	665
 選生	tuyển sinh	1505
@@ -23114,7 +23137,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𠗤𣷱	váng sữa	4
 咏悄	vắng teo	4
 暈太陽	vầng thái dương	4
-𦕟㗂	vẳng tiếng	4
+𦕟聲	vẳng tiếng	4
 暈𩑰	vầng trán	4
 暈𦝄	vầng trăng	4
 鐄𦼇	vàng úa	4
@@ -23157,6 +23180,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 𮬄𩵜	vẩy cá	4
 圍陷	vây hãm	4
 丕𱺵	vậy là	3305
+丕𪜀	vậy là	3305
 丕𦓡	vậy mà	8748
 䞈摱	vay mượn	4
 湋渃	vẩy nước	4

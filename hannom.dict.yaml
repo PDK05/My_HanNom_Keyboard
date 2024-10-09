@@ -1252,7 +1252,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 坦	thảnⓗ 清坦 thanh thản, 平坦 bình thản	223900
 抯	thảⓥ 抯𫥨 thả ra, 抯心 thả tim	120700
 𢪷	múcⓥ 𢪷渃 múc nước, 𢪷𥺊 múc cháo	311400
-坤	khônⓥ 智坤 trí khôn, 坤𠺿 khôn ngoan, 坤量 khôn lường ⓗ 乾坤 càn khôn	145600
+坤	khônⓥ 智坤 trí khôn, 坤愿 khôn ngoan, 坤量 khôn lường ⓗ 乾坤 càn khôn	145600
 坤	khunⓥ ⇔ 坤 khôn	4
 押	ápⓗ 押解 áp giải, 𤋾押 ấm áp	38400
 押	épⓥ 押擦 ép sát	131100
@@ -4980,8 +4980,8 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 㗚	rậtⓥ 𠻤㗚 rần rật	4
 𠢝	vâmⓥ 劸如𠢝 khoẻ như vâm	460700
 嗄	hèⓥ 𠫾嗄 đi hè, 會嗄 hội hè, 僶𡮈易傷過嗄 thằng nhỏ dễ thương quá hè	108300
-𠺿	ngoanⓥ 𠺿𠺿 ngoan ngoãn, 𠺿道 ngoan đạo	129300
-𠺿	ngoãnⓥ 𠺿𠺿 ngoan ngoãn	343200
+愿	ngoanⓥ 愿愿 ngoan ngoãn, 愿道 ngoan đạo	129300
+愿	ngoãnⓥ 愿愿 ngoan ngoãn	343200
 盟	minhⓗ 盟誓 minh thệ	27300
 𠽖	giụcⓥ 𠽖偖 giục giã, 𢭻𠽖 xúi giục, 促𠽖 thúc giục	218000
 歇	hếtⓥ 歇錢 hết tiền, 𠓀歇 trước hết, 侯歇 hầu hết	24300
@@ -15346,7 +15346,7 @@ min_phrase_weight: 0           #Trọng số tối thiểu, 0 là không loại 
 困苦	khốn khổ	4
 坤𡘯	khôn lớn	358
 困難	khốn nạn	4
-坤𠺿	khôn ngoan	4
+坤愿	khôn ngoan	4
 困窘	khốn quẫn	4
 困倦	khốn quyện	4
 空包𣇞	không bao giờ	20334
